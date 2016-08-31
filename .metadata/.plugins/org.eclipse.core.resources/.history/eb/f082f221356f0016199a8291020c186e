@@ -1,0 +1,12 @@
+
+public class TempConvert {
+
+	public static void main(String[] args) {
+	
+	int Fahrenheit = -32;
+	int Celsius = (Fahrenheit - 32)* 5/9;
+			
+
+	}
+
+}
